@@ -1,6 +1,6 @@
 token=NDcxMzM5Njg3MTkwMjAwMzIw.DuXGag.apYb4H3qHMqGuT39ROy7NV0dCmM
 owner=500662619267399698
-prefix= r
-game= rplay,rhelp
+prefix= a
+game= aplay,ahelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
